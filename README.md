@@ -1,6 +1,9 @@
-##Hi, I'm Louarn!
+## Hi, I'm Louarn!
+
 I'm interested in lots of aspects of programming.
+
 I'm currently learning Rust, for fun!
+
 I'm working on a dungeon video game for a CS class project at the moment.
 
 <!---
