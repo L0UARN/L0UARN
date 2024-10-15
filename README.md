@@ -2,7 +2,7 @@
 
 I'm interested in lots of aspects of computer science, and learning new stuff is what drives me.
 
-I am currently a software engineering student at UBO (Brest, France), after finishing my CS bachelor's degree at the IUT of Lannion (Lannion, France) and 2 years of full-stack web development in apprenticeship at ID Interactive (Arradon, France).
+I am currently studying for a software engineering master's degree at UBO (Brest, France), having finished my CS bachelor's degree at the IUT of Lannion (Lannion, France) and 2 years of full-stack web development in apprenticeship at ID Interactive (Arradon, France).
 
 On the side, I'm doing with game development using only open-source tools, like Godot, Blender and Krita.
 
